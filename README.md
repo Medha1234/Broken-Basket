@@ -1,4 +1,4 @@
-Meal Plan helper
+Meal Plan helper using an active chatbot and personalized meal plan recommendation webiste
 
 ### Installation
 
